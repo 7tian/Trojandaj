@@ -1,3 +1,5 @@
+安装Trojan需要先将域名解析到VPS上
+
 Trojan一键安装脚本：
 curl -O https://raw.githubusercontent.com/atrandys/trojan/master/trojan_m
 ult.sh && chmod +x trojan_mult.sh && ./trojan_mult.sh
